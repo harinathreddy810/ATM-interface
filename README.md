@@ -1,6 +1,5 @@
 # ATM-interface
 
-**ATM Interface Documentation**
 **1. Title of the Project**
 ATM Interface Simulation using Java
 
