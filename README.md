@@ -61,7 +61,7 @@ Once logged in, a do-while loop presents the user with a menu to perform various
 •	Ends the loop and displays a farewell message.
 •	Program terminates using System.exit() or by simply ending the main method.
 
-6. Conclusion
+**6. Conclusion**
 This mini-project simulates a basic ATM system using Java. It demonstrates the core concepts of object-oriented programming including classes, objects, encapsulation, and method abstraction. This mini project serves as a strong foundation for building more complex financial applications in the future.
 It is ideal for beginner to intermediate Java learners and showcases the structure and behavior of a banking system in a simplified and interactive format.
 
